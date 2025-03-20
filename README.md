@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm purya dianati</h1>
-<h3 align="center">researcher in deep Q learning , deep learning and machine learning - 3 years exprience work with python and django</h3>
+<h3 align="center">researcher in deep Q learning , deep learning and machine learning - 6 years exprience work with python and django</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puryadianati&label=Profile%20views&color=blueviolet&style=flat" alt="puryadianati" /> </p>
 <img align="right" alt="Coding" width="400" src="http://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Predict crypto market by deep Q learning**
+- 🔭 I’m currently working on **deep Q learning**
 
 - 🌱 I’m currently learning **TensorFlow, Scikit-Learn- agent deep Q learning **
 
